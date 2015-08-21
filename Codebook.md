@@ -6,13 +6,15 @@ Objective is to combine two data sets each comprising three files and clean the 
 
 The data includes accelerometer information in different axes from the Samsung phone.
 In addition the subject (person) was added identified by a number.
+
 The activity being undertaken was also added under 'activity' and these are:
-WALKING
-WALKING_UPSTAIRS
-WALKING_DOWNSTAIRS
-SITTING
-STANDING
-LAYING
+
+* WALKING
+* WALKING_UPSTAIRS
+* WALKING_DOWNSTAIRS
+* SITTING
+* STANDING
+* LAYING
 
 ##Transformation
 The data is aggregated into a file with the means of all the data by activities and by participants.
