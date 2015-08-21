@@ -1,6 +1,9 @@
 #Codebook for the Getting and Cleaning Data Project
 
-Objective is to combine two data sets each comprising three files and clean the data ready for analysis
+Objective is to combine two data sets each comprising three files and clean the data ready for analysis.
+See the readme for the locaiton of the files.
+
+Requires the dplyr package to be installed.
 
 ##Variables
 
